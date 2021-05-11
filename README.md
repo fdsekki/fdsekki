@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fdsekki
+- 👀 I’m interested in cybersecurity and blockchain development.
+- 🌱 I’m currently learning for CompTIA Security+ certificate.
+- 💞️ I’m looking to collaborate on blockchain/fintech development projects.
+- 📫 How to reach me: https://petitkit.herokuapp.com/
